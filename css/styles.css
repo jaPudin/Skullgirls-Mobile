@@ -11394,7 +11394,7 @@ section {
 section.cta {
   position: relative;
   padding: 20rem 0;
-  background-image: url("https://www.dualshockers.com/static/uploads/2016/04/Untitled-2.jpg");
+  background-image: url("../assets/img/splash.jpg");
   background-position: center;
   background-size: 100%;
 }
@@ -11613,10 +11613,5 @@ footer a:hover, footer a:active, footer a:focus {
     border-radius: 50%;
     overflow: hidden;
     margin-top: -5px;
-}
-.image{
-  height: 10px;
-  width:  10px;
-  border: 1px;
 }
 }
