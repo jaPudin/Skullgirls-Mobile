@@ -11614,4 +11614,11 @@ footer a:hover, footer a:active, footer a:focus {
     overflow: hidden;
     margin-top: -5px;
 }
+.feature-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -5px;
+}
 }
